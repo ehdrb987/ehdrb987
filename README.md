@@ -1,11 +1,16 @@
 # 남들이 한글 배울때 JAVA를 마스터한 진주 제프 베조스 
 # 김동규의 specs 오마카세
 ## 정보처리산업기사 필기 3주 합격
-## BIG ZERO 이대영의 수석 1호제자 인정
-## 코딩계의 객체지향 요리사 박준병과 동기
-## BIG BOSS 이윤석과 피파 17전 13승
-## 냥터링 김고은팀장과 커뮤니케이션 가능
-## (주)MIDAS 김병철 팀장 프로젝트 DB관리자 임명
+## BIG ZERO 이대영
+### 진주 GPT 이대영의 수석 1호제자 인정
+## 코딩계의 객체지향 요리사 
+### 박준병과 하교할때 동행
+## BIG BOSS 이윤석
+### 피파 17전 13승
+## (주)냥터링 김고은팀장
+###  클레오파트라 김고은팀장과 커뮤니케이션 가능
+## (주)MIDAS 김병철 팀장
+###  진주 토니스타크 김병철팀장 프로젝트 DB관리자 임명
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
